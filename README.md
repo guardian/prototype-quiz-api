@@ -1,6 +1,6 @@
-# Guardian Film API
+# Guardian Quiz API
 
-Internal proof of concept showing how we can expose our film data as a JSON API
+Internal proof of concept showing how we can expose our quiz data as a JSON API
 
 ## Prerequisites
 
